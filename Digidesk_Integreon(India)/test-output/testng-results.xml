@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30184" started-at="2020-08-26T17:21:25 IST" finished-at="2020-08-26T17:21:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30184" started-at="2020-08-26T17:21:25 IST" finished-at="2020-08-26T17:21:56 IST">
+      <class name="Runner.Admin">
+        <test-method status="PASS" signature="Initialize_Driver()[pri:0, instance:Runner.Admin@57855c9a]" name="Initialize_Driver" is-config="true" duration-ms="4295" started-at="2020-08-26T17:21:25 IST" finished-at="2020-08-26T17:21:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize_Driver -->
+        <test-method status="PASS" signature="login_integreon()[pri:1, instance:Runner.Admin@57855c9a]" name="login_integreon" duration-ms="8813" started-at="2020-08-26T17:21:30 IST" finished-at="2020-08-26T17:21:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_integreon -->
+        <test-method status="PASS" signature="Addnew_Request()[pri:2, instance:Runner.Admin@57855c9a]" name="Addnew_Request" duration-ms="17035" started-at="2020-08-26T17:21:39 IST" finished-at="2020-08-26T17:21:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addnew_Request -->
+      </class> <!-- Runner.Admin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
