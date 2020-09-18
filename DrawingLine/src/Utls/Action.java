@@ -51,6 +51,7 @@ public class Action {
 		}
 	}
 	
+	//Implicit wait
 	public static void IWait(WebElement element) throws Exception
 	{
 		try {
