@@ -1,12 +1,13 @@
-import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
+
+import org.testng.annotations.Test;
 
 
 
 public class Tests_GET {
 
 	@Test
-	public void test_1()
+	 void test_01()
 	{
 		
 		given().

@@ -6,6 +6,7 @@
       <class name="Runner.Admin">
         <methods>
           <include name="Addnew_Request"/>
+          <include name="login_integreon"/>
           <include name="Initialize_Driver"/>
         </methods>
       </class> <!-- Runner.Admin -->

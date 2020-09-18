@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24142" started-at="2020-09-18T12:52:35 IST" finished-at="2020-09-18T12:52:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24142" started-at="2020-09-18T12:52:35 IST" finished-at="2020-09-18T12:52:59 IST">
+      <class name="Runner.Admin">
+        <test-method status="PASS" signature="Initialize_driver()[pri:0, instance:Runner.Admin@48503868]" name="Initialize_driver" is-config="true" duration-ms="4544" started-at="2020-09-18T12:52:35 IST" finished-at="2020-09-18T12:52:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize_driver -->
+        <test-method status="PASS" signature="Draw_A_Line()[pri:0, instance:Runner.Admin@48503868]" name="Draw_A_Line" duration-ms="19556" started-at="2020-09-18T12:52:40 IST" finished-at="2020-09-18T12:52:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Draw_A_Line -->
+      </class> <!-- Runner.Admin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
